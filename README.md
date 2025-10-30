@@ -16,7 +16,11 @@ Movie & TV Show Aggregator website fully *secure*, *responsive* and *userfriendl
 ## ScreenShort
 
 ![Image 2](https://github.com/user-attachments/assets/d0cd3b3e-f945-4ad0-9eaf-66e27cbb565c)
+
 ![Image 9](https://github.com/user-attachments/assets/1a4883d7-971f-449a-a73d-04f6750a2ad6)
+
 ![Image 10](https://github.com/user-attachments/assets/46ea1f5c-d3f6-449d-b457-4fd9e31463d1)
+
 ![Image 6](https://github.com/user-attachments/assets/701b7619-8722-47b5-83e4-9009660eaeda)
+
 ![Image 7](https://github.com/user-attachments/assets/aeed0dcd-3d42-4427-88dd-0b166c064f2c)
