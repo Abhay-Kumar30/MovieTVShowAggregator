@@ -1,7 +1,7 @@
 # Movie & TV Show Aggregator
 Movie & TV Show Aggregator website fully *secure*, *responsive* and *userfriendly*.
 
-**Tech-Used:-** React, HTML, CSS, Javascript, Redux, TMBD-API, Git-Github.
+**Tech-Used:-** React, HTML, CSS, Javascript, Redux, TMBD-API, Git-Github
 
 ## Features:
 1) Utilized Axios for efficient and secure API data handling and asynchronous requests
